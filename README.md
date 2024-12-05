@@ -1,11 +1,11 @@
 ## ChatBot using NN
 
-Description: Built a chatbot capable of asking context-aware questions
+_Description_: Built a chatbot capable of asking context-aware questions
 
-Project Members:
-Kevin Albajrami 
-Suzana Marsela
+_Project Members_:
+<small>Kevin Albajrami </small>
+<small>Suzana Marsela</small>
 
-Senior Project June, 2020.
-Antalya Bilim University
+<small>Senior Project June, 2020.</small>
+<small>Antalya Bilim University</small>
 
